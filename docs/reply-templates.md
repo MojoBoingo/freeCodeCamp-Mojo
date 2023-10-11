@@ -33,7 +33,7 @@ Once you resolve these issues, we will be able to review your PR and merge it. �
 
 ---
 
-Feel free to reference the [contributing guidelines](how-to-work-on-coding-challenges.md#testing-challenges) for instructions on running the CI build locally. ✅
+Feel free to reference the [contributing guidelines](https://github.com/MojoBoingo/freeCodeCamp-Mojo/edit/templatelink/docs/reply-templates.md) for instructions on running the CI build locally. ✅
 ```
 
 ## Syncing Fork
